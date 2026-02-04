@@ -50,7 +50,7 @@ This app is built with HTML, CSS, and JavaScript, and uses a public API to fetch
 ## 📸 Demo Screenshots 
 
 ### 🔹 Home Screen
-![Home Screen](images/home.png)
+![Home Screen](images/homepage.png)
 
 ### 🔹 Search Result
 ![Search Result](images/result.png)
