@@ -1,5 +1,7 @@
 # 🌍 Country Guide App
 
+🔗 **Live Demo:** https://country-guide-website.netlify.app
+
 A simple and interactive web application that lets users get information about any country such as its capital, population, currency, time zones, and flag using a country search feature.
 
 This app is built with HTML, CSS, and JavaScript, and uses a public API to fetch real-time country data.
@@ -69,15 +71,6 @@ This app is built with HTML, CSS, and JavaScript, and uses a public API to fetch
 
    Just open index.html in any web browser.
 
-## 📌 Live Preview
-
-- You can host it easily using GitHub Pages:
-
-- Go to Settings → Pages
-
-- Set Source to main branch and / (root)
-
-- Save — your app will be live at https://SravaniMuduru.github.io/Countryguide-app/
 
 ## 💡 Future Enhancements
 
