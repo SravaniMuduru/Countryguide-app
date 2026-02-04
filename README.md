@@ -26,12 +26,6 @@ This app is built with HTML, CSS, and JavaScript, and uses a public API to fetch
 
 - 🖼️ Clean and responsive user interface
 
-## 📁 Project Structure
-Countryguide-app/
-├── index.html       # Main HTML file
-├── index.css        # Styling for the app
-├── index.js         # JavaScript logic for API calls and UI
-└── README.md        # Project description
 
 ## 🛠️ Technologies Used
 
